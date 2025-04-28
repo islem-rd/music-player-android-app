@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_rename_playlist"
+        android:title="Rename playlist" />
+    <item
+        android:id="@+id/action_change_description"
+        android:title="Change description" />
+    <item
+        android:id="@+id/action_change_cover"
+        android:title="Change cover image" />
+</menu>
